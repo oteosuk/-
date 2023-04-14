@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470791413198",
+    "firebase_url": "https://elemental-hero-ef7eb-default-rtdb.firebaseio.com",
+    "project_id": "elemental-hero-ef7eb",
+    "storage_bucket": "elemental-hero-ef7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470791413198:android:fb9022861c1c9711f21f9f",
+        "android_client_info": {
+          "package_name": "com.SimOtae.ElementalHero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470791413198-g6d0hp72pf08fjdv22okp0c1qcnqa1je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SimOtae.ElementalHero",
+            "certificate_hash": "ef63371a21e5279c88b70ef24a806874361ca62a"
+          }
+        },
+        {
+          "client_id": "470791413198-q43gk8pp72317cmk7vg847g7og407fh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ncj5GNKmJ14QJeUiHa-GNT3tEfeWyfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470791413198-q43gk8pp72317cmk7vg847g7og407fh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

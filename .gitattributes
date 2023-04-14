@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+C:/UnityProject/ElementalHero/Assets/Firebase filter=lfs diff=lfs merge=lfs -text
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-9_6_0.bundle filter=lfs diff=lfs merge=lfs -text
+using filter=lfs diff=lfs merge=lfs -text
+System.Collections; filter=lfs diff=lfs merge=lfs -text
+Assets/Firebase/Plugin/x86_64/FirebaseCppApp-9_6_0 filter=lfs diff=lfs merge=lfs -text
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-9_6_0.so filter=lfs diff=lfs merge=lfs -text

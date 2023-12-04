@@ -6,7 +6,7 @@ using UnityEngine.Serialization;
 
 public class Enemy : MonoBehaviour
 {
-    protected GameManager _gameManager;
+    //protected GameManager _gameManager;
     //int eLife = 1;
     public float enemySpeed;
     public float moveXRate;
